@@ -1,7 +1,14 @@
-# React Brasil Slack
-The default Gatsby starter
+![Slack Users](https://react-brasil-slack.herokuapp.com/badge.svg)
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+# React Brasil Slack
+Landing page for React Brasil Slack community made with [Gatsby Project](https://github.com/gatsbyjs/gatsby)
+
+Update the dependencies
 ```
-gatsby new gatsby-example-site
+npm install
+```
+
+Develop mode
+```
+gatsby develop
 ```
