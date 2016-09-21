@@ -1,0 +1,41 @@
+:root {
+  --gutter: 15px;
+  --mainColor: #61dafb;
+  --ligthColor: #fff;
+  --textShadowColor: #7D7D7D;
+  --radius: 5px;
+}
+
+.container {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.site-logo {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+
+.site-title {
+  margin: var(--gutter) 0;
+}
+
+.slack-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.button {
+  background-color: var(--mainColor);;
+  border-radius: var(--radius);
+  color: var(--ligthColor);
+  display: inline-block;
+  font-weight: bold;
+  margin: 30px 0;
+  padding: var(--gutter);
+  text-decoration: none;
+  text-shadow: 2px 1px 1px var(--textShadowColor);
+}
+
