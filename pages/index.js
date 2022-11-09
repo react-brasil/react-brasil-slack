@@ -20,7 +20,7 @@ export default class HomePage extends React.Component {
           Um grupo criado para discutir tudo sobre ReactJS
         </p>
         <img src={slackImage} className={styles['slack-image']} />
-        <a href="https://react-brasil-slack.herokuapp.com" className={styles['button']}>
+        <a href="https://reactconf.com.br/slack" className={styles['button']}>
           Quero participar
         </a>
       </Container>
